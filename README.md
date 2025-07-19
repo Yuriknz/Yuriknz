@@ -19,11 +19,11 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos em que estou 
 </p>
 
 <p align="left">
-  💼 Ferramentas: Docker(Básico), Postman 
+  🛠️ Ferramentas: Docker(Básico), Postman 
 </p>
 
 <p align="left">
-  💌 <strong>Me encontre em: </strong><br>⤵️
+  💌 <strong>Me encontre em: ⤵️ </strong><br>
 </p>
 
 <p align="left">
