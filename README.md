@@ -1,5 +1,7 @@
 ## Olá, sou Yuri Carneiro 👋
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px">
+</div>
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos em que estou trabalhando e contribuindo. Gosto de aprender sobre programação, resolver problemas e criar soluções úteis.
 
