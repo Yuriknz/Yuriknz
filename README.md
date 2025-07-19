@@ -6,7 +6,11 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos em que estou 
 ## Sobre mim
 <p align="left"> 
   🌱 Atualmente estou cursando bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo, Campus Cachoeiro de Itapemirim.
+</p>
+<p align="left">
   🚀 Interessado em desenvolvimento web e automação de processos e engenharia de dados. 
+</p>
+<p align="left">
   💼 Atualmente, estou trabalhando em um projeto pessoal focado no desenvolvimento de soluções inteligentes baseadas em RAG (Retrieval Augmented Generation).
 </p>
 
@@ -19,7 +23,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos em que estou 
 </p>
 
 <p align="left">
-  💌 <strong>Me encontre em: </strong>.<br> ⤵️
+  💌 <strong>Me encontre em: </strong><br>⤵️
 </p>
 
 <p align="left">
