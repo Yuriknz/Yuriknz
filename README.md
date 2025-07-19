@@ -1,4 +1,38 @@
-## Hi there 👋
+## Olá, sou Yuri Carneiro 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos em que estou trabalhando e contribuindo. Gosto de aprender sobre programação, resolver problemas e criar soluções úteis.
+
+## Sobre mim
+<p align="left"> 
+  🌱 Atualmente estou cursando bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo, Campus Cachoeiro de Itapemirim.
+  🚀 Interessado em desenvolvimento web e automação de processos e engenharia de dados. 
+  💼 Atualmente, estou trabalhando em um projeto pessoal focado no desenvolvimento de soluções inteligentes baseadas em RAG (Retrieval Augmented Generation).
+</p>
+
+<p align="left">
+  🦄 Linguagens: Python, C#, React, JavaScript, C++, HTML, CSS, Bootstrap, SQL
+</p>
+
+<p align="left">
+  💼 Ferramentas: Docker(Básico), Postman 
+</p>
+
+<p align="left">
+  💌 <strong>Me encontre em: </strong>.<br> ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:yuricarneiro9@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yuri-carneiro-a58878229/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/22997012757" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
 <!--
 **Yuriknz/Yuriknz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
