@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos em que estou 
   🚀 Interessado em desenvolvimento web e automação de processos e engenharia de dados. 
 </p>
 <p align="left">
-  💼 Atualmente, estou trabalhando em um projeto pessoal focado no desenvolvimento de soluções inteligentes baseadas em RAG (Retrieval Augmented Generation).
+  💼 Atualmente, estou trabalhando em um projeto acadêmico focado no estudo sobre a geração automática de questões, por meio de processamento de linguagem natural para buscar informções em regulamento de esportes.
 </p>
 
 <p align="left">
