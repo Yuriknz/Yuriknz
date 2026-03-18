@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos em que estou 
 
 ## Sobre mim
 <p align="left"> 
-  🌱 Atualmente estou cursando bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo, Campus Cachoeiro de Itapemirim.
+  🌱 Atualmente Bacharel em Sistemas de Informação no Instituto Federal do Espírito Santo, Campus Cachoeiro de Itapemirim.
 </p>
 <p align="left">
   🚀 Interessado em desenvolvimento web e automação de processos e engenharia de dados. 
@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos em que estou 
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: Docker(Básico), Postman 
+  🛠️ Ferramentas: Docker(Básico), Postman, Langflow, N8N
 </p>
 
 <p align="left">
